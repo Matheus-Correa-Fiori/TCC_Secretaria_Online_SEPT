@@ -1,7 +1,7 @@
 
 # TCC - Secretaria Online do SEPT (Front-End)
 
-Projeto desenvolvido em PHP para a interface da Secretaria, hospedado no repositório [TCC---Secretaria-UI](https://github.com/LucasPerussi/TCC---Secretaria-UI.git).
+Projeto desenvolvido em PHP para a interface da Secretaria, originalmente hospedado no repositório [TCC---Secretaria-UI](https://github.com/LucasPerussi/TCC---Secretaria-UI.git).
 
 ## 📋 Descrição
 
